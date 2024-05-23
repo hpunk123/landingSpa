@@ -6,11 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "build":"node src/index.js"
-<<<<<<< HEAD
-    
-=======
->>>>>>> 0e960b431b855dc98ed988b4f0681dac4632373b
+    "build":"node src/index.js"    
   },
   "keywords": [],
   "author": "",
