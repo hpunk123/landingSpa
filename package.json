@@ -1,11 +1,13 @@
 {
-  "name": "candysoft",
+  "name": "landigSpa",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "build":"node src/index.js"
+    
   },
   "keywords": [],
   "author": "",
